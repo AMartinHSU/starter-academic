@@ -69,5 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 Alicia Martin is a graduate student at Humboldt State University in the Psychology department focusing on academic research. She has worked with the Student Legal Lounge at Humboldt State University as the disability rights advocate, outreach coordinator, general assistant. Her research interests include ableism and disability justice, ethics, equity, social cognition, group process, and perceptions of people with disabilities. 
