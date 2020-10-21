@@ -26,17 +26,17 @@ interests:
 - Disability Justice
 
 education:
-  degrees:
-  - degree: Masters of Arts in Psychology
+  courses:
+  - course: Masters of Arts in Psychology
     institution: Humboldt State University
     year: (Currently Enrolled)
-  - degree: Bachelors of Arts in Psychology 
+  - course: Bachelors of Arts in Psychology 
     institution: Humboldt State University
     year: 2020
-  - degree: Bachelors of Arts in Philosophy
+  - course: Bachelors of Arts in Philosophy
     institution: Humboldt State University
     year: 2020
-  - degree: Associates of Arts Liberal Arts 
+  - course: Associates of Arts Liberal Arts 
     institution: College of the Redwoods
     year: 2012
 
