@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "Aug 2020"
   date_end = ""
   description = "Cognitive Psychology"
-  
+  """
 
 [[experience]]
   title = "ADA Rights Coordinator / General Assistant"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "Aug 2018"
   date_end = ""
   description = """At the Student Legal Lounge we empowered the student body by providing resources and legal information. My research with the Student Legal Lounge focused on rights and resources for persons with disabilities"""
-  
+  """
   
 [[experience]]
   title = "Cognition Lab"
@@ -44,5 +44,8 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "Jan 2020"
   date_end = ""
+  description = "Cognitive Psychology"
+  
+  """
 
 +++
