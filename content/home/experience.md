@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   company = "Humboldt State University"
   company_url = "https://psychology.humboldt.edu/academic-research"
   location = "California"
-  date_start = "Fall 2020"
+  date_start = "Aug 2020"
   date_end = ""
-  description = "Cognitive Psychology"""
+  description = "Cognitive Psychology"
   
 
 [[experience]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company = "Humboldt State University Student Legal Lounge"
   company_url = "https://studentlegallounge.humboldt.edu/ada-resources"
   location = "California"
-  date_start = "Fall 2018"
+  date_start = "Aug 2018"
   date_end = ""
   description = """At the Student Legal Lounge we empowered the student body by providing resources and legal information. My research with the Student Legal Lounge focused on rights and resources for persons with disabilities"""
   
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   title = "Cognition Lab"
   company = "Humboldt State University Student Legal Lounge"
   company_url = "https://psychology.humboldt.edu/cognition-lab"
-  location = "Humboldt State University"
-  date_start = "Spring 2020"
-  date_end = "Present"""
+  location = "California"
+  date_start = "Jan 2020"
+  date_end = ""
 
 +++
