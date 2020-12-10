@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Graduate Student"
+  company = "Humboldt State University"
+  company_url = "https://psychology.humboldt.edu/academic-research"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "Fall 2020"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = "Cognitive Psychology"
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "ADA Rights Coordinator / General Assistant"
+  company = "Humboldt State University Student Legal Lounge"
+  company_url = "https://studentlegallounge.humboldt.edu/ada-resources"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "Fall 2018"
+  date_end = ""
+  description = """At the Student Legal Lounge we empowered the student body by providing resources and legal information. My research with the Student Legal Lounge focused on rights and resources for persons with disabilities"""
+  
+  
+[[experience]]
+  title = "Cognition Lab"
+  company = "Humboldt State University Student Legal Lounge"
+  company_url = "https://psychology.humboldt.edu/cognition-lab"
+  location = "Humboldt State University"
+  date_start = "Spring 2020"
+  date_end = "Present"
+
+  
 
 +++
