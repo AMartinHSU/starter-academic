@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "Fall 2020"
   date_end = ""
-  description = "Cognitive Psychology"
+  description = "Cognitive Psychology"""
   
 
 [[experience]]
@@ -43,8 +43,6 @@ date_format = "Jan 2006"
   company_url = "https://psychology.humboldt.edu/cognition-lab"
   location = "Humboldt State University"
   date_start = "Spring 2020"
-  date_end = "Present"
-
-  
+  date_end = "Present"""
 
 +++
