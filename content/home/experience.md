@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "Aug 2020"
   date_end = ""
-  Responsibilities include = ""
+  Responsibilities = ""
   description = "Cognitive Psychology"
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "Aug 2018"
   date_end = ""
-  Responsibilities include = ""
+  Responsibilities = ""
   description = """At the Student Legal Lounge we empowered the student body by providing resources and legal information. My research with the Student Legal Lounge focused on rights and resources for persons with disabilities"""
   
 [[experience]]
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "Jan 2020"
   date_end = ""
-  Responsibilities include = ""
+  Responsibilities = ""
   description = "Cognitive Psychology"
 
 
